@@ -1,3 +1,2 @@
 # Repo
-ML/NLP.
-Currently working on DL.
+Python program to convert your given text to speech.
